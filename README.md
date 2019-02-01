@@ -1,2 +1,2 @@
-# desk
-boilerplate with auth0, webtask, mlab  for MEAN serverless full stack
+# Node JS empty site
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
